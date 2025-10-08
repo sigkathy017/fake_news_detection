@@ -1,0 +1,25 @@
+{
+  "label_smoothing":0.0,
+  "labels":[
+    "NOUN",
+    "PUNCT",
+    "ADP",
+    "NUM",
+    "SYM",
+    "SCONJ",
+    "ADJ",
+    "PART",
+    "DET",
+    "CCONJ",
+    "PROPN",
+    "PRON",
+    "X",
+    "_",
+    "ADV",
+    "INTJ",
+    "VERB",
+    "AUX"
+  ],
+  "neg_prefix":"!",
+  "overwrite":false
+}
